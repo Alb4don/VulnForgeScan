@@ -31,3 +31,5 @@
 ## Disclaimer
 
 - VulnForge is a security testing tool. Use it only on systems you own or have explicit written permission to test. The developer of this tool is not responsible for its misuse.
+
+  ![CodeRabbit Pull Request Reviews](https://img.shields.io/coderabbit/prs/github/Alb4don/CloudKerberos_Security-Auditor?utm_source=oss&utm_medium=github&utm_campaign=Alb4don%2FCloudKerberos_Security-Auditor&labelColor=171717&color=FF570A&link=https%3A%2F%2Fcoderabbit.ai&label=CodeRabbit+Reviews)
